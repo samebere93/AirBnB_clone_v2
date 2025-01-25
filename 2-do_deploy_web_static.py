@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#This is a bash script
 """Compress web static package
 """
 from fabric.api import *
