@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#this is a bash script
 import os.path
 from datetime import datetime
 from fabric.api import env
